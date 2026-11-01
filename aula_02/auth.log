@@ -1,0 +1,4 @@
+2025-02-20 08:15:01 FAIL usuario=admin ip=185.220.101.1
+2025-02-20 08:15:02 FAIL usuario=admin ip=185.220.101.1
+2025-02-20 08:15:03 FAIL usuario=teste ip=91.240.118.172
+2025-02-20 08:15:04 SUCCESS usuario=joao ip=192.168.1.20
